@@ -18,7 +18,7 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn,html,css" />
 </p>
 
 ### Backend
@@ -28,12 +28,12 @@
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,redis,postman" />
 </p>
 
 ---
@@ -56,18 +56,4 @@
 
 ---
 
-## 🛠 Current Focus
 
-```ts
-const aakrit = {
-  code: ["Python", "TypeScript", "JavaScript"],
-  frontend: ["React", "Next.js", "TailwindCSS"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB", "PostgreSQL", "MySQL"],
-  tools: ["Git", "Docker", "Linux"],
-  goals: [
-    "Become a strong full-stack engineer",
-    "Build scalable SaaS products",
-    "Master DSA and system design"
-  ]
-}
