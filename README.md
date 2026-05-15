@@ -13,26 +13,33 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,sql" />
 </p>
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i= html,css,tailwind,react,nextjs," />
-</p>
 
 ### Backend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui" />
+</p>
+
+---
+
+### Databases & ORM/ODM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose,sequelize,drizzle" />
 </p>
 
 ### Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,redis,postman" />
 </p>
 
