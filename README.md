@@ -39,7 +39,7 @@ Interested in backend systems, APIs, and clean architecture.
 
 
 
-# 🔗 Connect
+# Connect
 
 <a href="https://github.com/aakritneupane53"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:aakritneupane101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
