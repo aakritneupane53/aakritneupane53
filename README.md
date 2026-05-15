@@ -2,7 +2,7 @@
 
 # Hey there, I'm Aakrit Neupane 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6C63FF&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6C63FF&center=true&vCenter=true&width=420&lines=Aspiring+Software+Engineer+and;Full+Stack+Developer+and)](https://git.io/typing-svg)
 
 
 
@@ -43,4 +43,4 @@ Interested in backend systems, APIs, and clean architecture.
 
 <a href="https://github.com/aakritneupane53"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:aakritneupane101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="www.linkedin.com/in/aakrit-neupane-101-"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/aakrit-neupane-101-"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
