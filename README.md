@@ -8,10 +8,10 @@
 
 </div>
 
-Interested in backend systems, APIs, and clean architecture.
+Interested in complex and efficient systems and clean architecture.
 
 - Backend development & system design
-- Full-stack JavaScript/TypeScript applications
+- Full-stack JavaScript/TypeScript web applications
 - Performance-oriented engineering mindset
 
 ---
