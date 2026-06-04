@@ -25,7 +25,7 @@ Interested in complex and efficient systems and clean architecture.
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,redux" />
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,redis,nextjs" />
 
 ## Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,mongoose" />
