@@ -2,7 +2,7 @@
 
 # Hey there, I'm Aakrit Neupane 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6C63FF&center=true&vCenter=true&width=420&lines=Aspiring+Software+Engineer+and;Admirer+of+complex+scalable+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6C63FF&center=true&vCenter=true&width=420&lines=Aspiring+Software+Engineer+and;Admirer+of+simplicity+in+complex+scalable+systems)](https://git.io/typing-svg)
 
 
 
